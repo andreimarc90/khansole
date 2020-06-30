@@ -1,4 +1,4 @@
-In this problem, you’ll write a program in the file khansole_academy.py that randomly generates simple addition problems for the user, 
+In this problem, you’ll write a program that randomly generates simple addition problems for the user, 
 reads in the answer from the user, and then checks to see if they got it right or wrong, until the user appears to have mastered the material. 
 
 More specifically, your program should be able to generate simple addition problems that involve adding two 2-digit integers (i.e., the numbers 10 through 99). 
